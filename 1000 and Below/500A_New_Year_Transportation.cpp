@@ -30,7 +30,6 @@ int main() {
     }
 
     int i=1;
-    int jump;
     bool isPossible = false;
 
     while(i <= n) {
