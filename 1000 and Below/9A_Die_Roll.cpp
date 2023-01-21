@@ -37,7 +37,7 @@ int main() {
         cout<<"2/3";
     }
     else if(ans == 6) {
-        cout<<"1";
+        cout<<"1/1";
     }
     else {
         cout<<ans<<"/"<<"6";
